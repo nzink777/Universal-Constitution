@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use the Universal-Constitution or adopt these principles in your projects, please cite it as below."
+authors:
+  - family-names: "Zink"
+    given-names: "Natasha"
+title: "Universal-Constitution"
+version: 1.0.0.0
+doi: 10.5281/zenodo.21013040
+date-released: 2026-06-28
+url: "https://github.com/nzink777/Universal-Constitution"
